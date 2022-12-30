@@ -8,6 +8,10 @@
 
 	docker run --name angular-app -p 8080:80 -d dockerized_angular
 
+#On Browser
+
+	http://localhost:8080
+
 # Angular
 
 
