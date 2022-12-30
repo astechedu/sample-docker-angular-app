@@ -36,8 +36,7 @@
 #Expose port 80
 
 	EXPOSE 80
-	Footer
-
+	
 
 
 
