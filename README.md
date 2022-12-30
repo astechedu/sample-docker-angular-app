@@ -1,7 +1,5 @@
 # Dockerized Angular
 
-# Angular
-
 #Building image
 
 	docker build . -t dockerized_angular
@@ -9,6 +7,8 @@
 #Running container
 
 	docker run --name angular-app -p 8080:80 -d dockerized_angular
+
+# Angular
 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.0.4.
